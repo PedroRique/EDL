@@ -1,4 +1,4 @@
-# Exemplos simples para familiarização
+# Exemplos simples para familiarização com aplicação minimamente interessante.
 
 # Variável
 nome_materia = "Estruturas de Linguagens"
